@@ -20,6 +20,9 @@ scanners (including SAST, DAST, and even penetration testing by humans) and:
   But depending on the set parameters, it will still track it and will block the
   promotion to Production when the security scanner catches up and reports
   something critical.
-  
+
+**Screenshots** are currently available in
+[Michael's blog](https://blog.samoylenko.me/).
+
 Telegram: <https://t.me/thescanprojectchat>  
 Slack: <https://thescanproject.slack.com/> (less active)
