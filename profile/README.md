@@ -24,5 +24,4 @@ scanners (including SAST, DAST, and even penetration testing by humans) and:
 **Screenshots** are currently available in
 [Michael's blog](https://blog.samoylenko.me/).
 
-Discord: <https://discord.gg/9QCCP3ze>  
-Telegram: <https://t.me/thescanprojectchat>  
+**Project Logo** by [sonictheprogrammer](https://github.com/sonictheprogrammer).
