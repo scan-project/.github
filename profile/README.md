@@ -1,9 +1,8 @@
 # The Scan Project
 
-**The Scan Project** is currently in Private mode. Meanwhile, please feel free
-to use our vulnerable sample applications.
+The (Unnamed) **Scan Project** is currently in Stealth mode.
 
-**The Scan Project** is a solution that takes care of running multiple external
+**Scan Project** is a solution that takes care of running multiple external
 checks in a CI/CD pipeline, such as linters, quality tools, and security
 scanners (including SAST, DAST, and even penetration testing by humans) and:
 
