@@ -7,7 +7,7 @@ The (unnamed) **Scan Project** aka TSP is currently in Stealth mode.
 
 **Scan Project** is a solution that takes care of running multiple external
 checks in a CI/CD pipeline, such as linters, quality tools, and security
-scanners, including Static (SAST), Composition (SCA), Dynamic (DAST), and even penetration testing by humans, and:
+scanners, including Static ([SAST](https://en.wikipedia.org/wiki/Static_application_security_testing)), Composition ([SCA](https://en.wikipedia.org/wiki/Software_composition_analysis)), Dynamic ([DAST](https://en.wikipedia.org/wiki/Dynamic_application_security_testing)), and even penetration testing by humans, and:
 
 * Orchestrates and simplifies the execution of multiple linting, testing,
   quality and security tools.
