@@ -1,10 +1,13 @@
 # The Scan Project
 
-The (Unnamed) **Scan Project** is currently in Stealth mode.
+The (unnamed) **Scan Project** aka TSP is currently in Stealth mode.
+
+* Try the free version of our scanner here: <https://docs.scanproject.io> ([DockerHub](https://hub.docker.com/r/scanproject/standalone))
+* Sign-up for beta: <https://scanproject.io>
 
 **Scan Project** is a solution that takes care of running multiple external
 checks in a CI/CD pipeline, such as linters, quality tools, and security
-scanners (including SAST, DAST, and even penetration testing by humans) and:
+scanners, including Static (SAST), Composition (SCA), Dynamic (DAST), and even penetration testing by humans, and:
 
 * Orchestrates and simplifies the execution of multiple linting, testing,
   quality and security tools.
